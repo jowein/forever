@@ -251,3 +251,4 @@ Make sure that the user running the process has the appropriate privileges to re
 [0]: https://github.com/foreverjs/forever-monitor
 [1]: https://github.com/foreverjs/forever-monitor/tree/master/examples
 [2]: https://github.com/foreverjs/forever/blob/master/lib/forever/cli.js
+More
