@@ -1,5 +1,5 @@
 {
-  "name": "forever30",
+  "name": "forever31",
   "preferGlobal": "true",
   "description": "A simple CLI tool for ensuring that a given node script runs continuously (i.e. forever) 58",
   "version": "0.15.3",
