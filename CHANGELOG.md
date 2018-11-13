@@ -1,4 +1,4 @@
-
+ 
 0.14.2 / Tue, 30 Jun 2015
 =========================
   * [804b5b1](https://github.com/foreverjs/forever/commit/804b5b1) [dist] Version bump. 0.14.2 (`indexzero`)
